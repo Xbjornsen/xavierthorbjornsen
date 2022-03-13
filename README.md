@@ -2,11 +2,12 @@
 
 👋 Hi, I’m @xavierthorbjornsen
 
-I am an OpenSource Developer currently working on a cool database project 
+I am Developer currently working on a cool database project 
 - I am a fast learner and like to challenge myself
 - I am looking to collaborate with open source projects
-- I have worked as a full stack developer using .net framework and MVC
-- I have built projects in React and Python arduino and pi 
+- I have experience in DotNet, MVC, .netFramework, SQL. 
+- I have built projects in React and Python arduino and pi
+- I have built smart contracts on Solidity 
 
 
 <h3 align="left">Connect with me:</h3>
